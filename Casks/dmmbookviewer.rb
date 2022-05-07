@@ -16,6 +16,8 @@ cask "dmmbookviewer" do
         '~/Library/Application Support/DMM/DMM Books',
         '~/Library/Application Support/DMM/MyDMMBooksDocs',
         '~/Library/Application Support/CloudDocs/session/containers/iCloud.com.dmm.DMMBooks.plist',
+        '~/Library/Application Support/CloudDocs/session/containers/iCloud.com.dmm.DMMBooks',
         '~/Library/Saved Application State/com.dmm.DMMbookviewer.savedState',
+        '~/.config/DMM/DMMbookviewer.ini',
       ]
 end
