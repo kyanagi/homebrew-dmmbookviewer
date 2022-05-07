@@ -14,6 +14,7 @@ cask "dmmbookviewer" do
 
   zap trash: [
         '~/Library/Application Support/DMM/DMM Books',
+        '~/Library/Application Support/DMM/MyDMMBooksDocs',
         '~/Library/Application Support/CloudDocs/session/containers/iCloud.com.dmm.DMMBooks.plist',
         '~/Library/Saved Application State/com.dmm.DMMbookviewer.savedState',
       ]
